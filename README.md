@@ -48,3 +48,15 @@ In this task, I worked on hyperparameter tuning to improve the performance of a 
 
 <img width="954" height="620" alt="Screenshot 2026-01-19 223507" src="https://github.com/user-attachments/assets/00dba897-f09d-4e10-9b69-8c5c801ca026" />
 
+
+# Task 6
+
+In this task, I studied and implemented image classification using the K-Means clustering algorithm. Since K-Means is an unsupervised learning algorithm, it does not use labeled data during training and instead identifies patterns based on similarity between data points.
+For this experiment, I used the MNIST dataset, which consists of handwritten digit images from 0 to 9. Each image is represented as a 28×28 grayscale image and was converted into numerical feature vectors before applying the algorithm. The data was scaled to improve clustering performance. K-Means clustering was then applied with the number of clusters set to 10, corresponding to the ten digit classes.
+After clustering, each cluster was mapped to the most frequent digit label present within it for evaluation purposes. The clustering results were evaluated by comparing the predicted cluster labels with the actual digit labels. The learned centroids were visualized as average digit images, which provided a clear understanding of how K-Means groups similar handwritten digits. Although the accuracy obtained was lower than supervised learning methods, the results were reasonable for an unsupervised approach. This task helped me understand how clustering algorithms can be applied to image data and how meaningful patterns can be discovered without using labeled information.
+<img width="942" height="880" alt="Screenshot 2026-01-20 215309" src="https://github.com/user-attachments/assets/10920333-a04c-4b83-a14e-d4a4030dafe5" />
+<img width="933" height="890" alt="Screenshot 2026-01-20 215323" src="https://github.com/user-attachments/assets/2d20973d-428d-4317-a863-5c6b39fae697" />
+
+
+<img width="937" height="890" alt="Screenshot 2026-01-20 215529" src="https://github.com/user-attachments/assets/1214e830-1223-4f27-a8f3-05868c8af6ab" />
+

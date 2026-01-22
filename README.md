@@ -72,6 +72,14 @@ In this task, I learnt the fundamental concepts of Generative Adversarial Networ
 
 # Task 9
 
+In this task, I learned and explored how natural language processing techniques can be used to extract meaningful information from PDF documents using LangChain. I gained practical experience in parsing PDF files and converting unstructured document content into usable text data. I understood the importance of splitting large documents into smaller text chunks to improve the efficiency and accuracy of information retrieval. This task helped me learn how text embeddings represent the semantic meaning of both document content and user queries, allowing the system to retrieve relevant information without relying on exact keyword matches. I also implemented a vector database using FAISS to store embeddings and perform similarity-based searches. Through testing different queries, I observed how the system retrieves relevant sections directly from the PDF, ensuring that the responses remain grounded in the original document. Additionally, I learned the difference between retrieval-based systems and generative question-answer systems. Overall, this task improved my understanding of document retrieval systems and their real-world applications in education, research, and information management.
+<img width="1201" height="754" alt="Screenshot 2026-01-22 202456" src="https://github.com/user-attachments/assets/b79f21f4-052e-449f-8a7d-069157d91af1" />
 
+
+<img width="1216" height="789" alt="Screenshot 2026-01-22 202507" src="https://github.com/user-attachments/assets/343c3274-83a7-4ec2-b697-742a9fad6938" />
+
+# Task 10
+
+In this task, I learned and explored how Optical Character Recognition (OCR) techniques can be used to extract and analyze tabular data from images using PaddleOCR. I understood how table images or scanned documents can be processed to detect text and convert unstructured visual data into a structured tabular format. Through hands-on implementation, I learned how PaddleOCR identifies text within table cells and how the extracted text can be organized into rows and columns using Python. I also gained practical experience in using pandas to perform basic statistical analysis such as calculating average, maximum, and minimum values from the extracted data. Additionally, I learned how data visualization techniques using matplotlib can be applied to represent the analyzed data clearly through charts. This task helped me understand the challenges involved in OCR-based table extraction, such as handling image quality and alignment issues. Overall, this task strengthened my understanding of document analysis pipelines and their applications in data automation and information processing.
 
 

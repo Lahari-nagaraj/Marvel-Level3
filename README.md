@@ -57,6 +57,21 @@ After clustering, each cluster was mapped to the most frequent digit label prese
 <img width="942" height="880" alt="Screenshot 2026-01-20 215309" src="https://github.com/user-attachments/assets/10920333-a04c-4b83-a14e-d4a4030dafe5" />
 <img width="933" height="890" alt="Screenshot 2026-01-20 215323" src="https://github.com/user-attachments/assets/2d20973d-428d-4317-a863-5c6b39fae697" />
 
-
 <img width="937" height="890" alt="Screenshot 2026-01-20 215529" src="https://github.com/user-attachments/assets/1214e830-1223-4f27-a8f3-05868c8af6ab" />
+
+# Task7
+
+From this task, this is what I learned and implemented. I understood the concept of anomaly detection and how it is used to identify abnormal or erroneous data points that differ from normal behavior. I learned the difference between supervised and unsupervised anomaly detection techniques and why unsupervised methods are commonly used in real-world applications. I generated a synthetic toy dataset using Python to simulate normal data and anomalies. I also learned how to visualize data using scatter plots to clearly identify outliers. This task helped me understand the complete workflow of anomaly detection from data creation to analysis.
+<img width="921" height="871" alt="Screenshot 2026-01-22 080302" src="https://github.com/user-attachments/assets/d21cf60a-630d-4d4b-a708-e9f1fb99205a" />
+
+# Task 8
+In this task, I learnt the fundamental concepts of Generative Adversarial Networks (GANs) and how they are used in Generative AI to create realistic synthetic images. I understood the adversarial learning process involving two neural networks, namely the Generator and the Discriminator, where the generator learns to produce fake images from random noise while the discriminator learns to distinguish between real and generated images. I implemented a GAN model using the PyTorch framework and trained it on the MNIST handwritten digits dataset. Through this task, I learnt how to load and preprocess image datasets, define neural network architectures, apply loss functions, and use optimizers for training deep learning models. I also gained practical understanding of how the generator improves its output by learning from the discriminator’s feedback, a process often referred to as “fooling” the discriminator. During training, I observed how the generated images evolved from random noise to recognizable handwritten digits, demonstrating the effectiveness of adversarial training. This task helped me understand the challenges involved in training GANs and the importance of balanced training between the generator and discriminator. Overall, this task strengthened my understanding of generative models, deep learning workflows, and the real-world applications of GANs in image generation and data synthesis.
+<img width="1224" height="793" alt="Screenshot 2026-01-22 170323" src="https://github.com/user-attachments/assets/837c1b7d-35b6-4106-a64c-ada165c97d74" />
+
+<img width="1234" height="836" alt="Screenshot 2026-01-22 170307" src="https://github.com/user-attachments/assets/5da4940d-1a55-4e9a-a9c1-90a7574158ba" />
+
+# Task 9
+
+
+
 

@@ -75,8 +75,6 @@ In this task, I learned and explored how natural language processing techniques 
 
 <img width="1216" height="789" alt="Screenshot 2026-01-22 202507" src="https://github.com/user-attachments/assets/343c3274-83a7-4ec2-b697-742a9fad6938" />
 
-# Task 10
-
 
 
 

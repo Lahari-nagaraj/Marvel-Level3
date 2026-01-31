@@ -55,6 +55,7 @@ In this task, I studied and implemented image classification using the K-Means c
 For this experiment, I used the MNIST dataset, which consists of handwritten digit images from 0 to 9. Each image is represented as a 28×28 grayscale image and was converted into numerical feature vectors before applying the algorithm. The data was scaled to improve clustering performance. K-Means clustering was then applied with the number of clusters set to 10, corresponding to the ten digit classes.
 After clustering, each cluster was mapped to the most frequent digit label present within it for evaluation purposes. The clustering results were evaluated by comparing the predicted cluster labels with the actual digit labels. The learned centroids were visualized as average digit images, which provided a clear understanding of how K-Means groups similar handwritten digits. Although the accuracy obtained was lower than supervised learning methods, the results were reasonable for an unsupervised approach. This task helped me understand how clustering algorithms can be applied to image data and how meaningful patterns can be discovered without using labeled information.
 
+<img width="355" height="180" alt="image" src="https://github.com/user-attachments/assets/ca6d9cac-fb9e-4ee0-94c5-7fb4b65cddf5" />
 
 # Task7
 
